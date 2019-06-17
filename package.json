@@ -1,6 +1,6 @@
 {
   "name": "melvo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "melvo",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/melvincarvalho/melvo/issues"
   },
-  "homepage": "https://github.com/melvincarvalho/melvo#readme"
+  "homepage": "https://github.com/melvincarvalho/melvo#readme",
+  "dependencies": {
+    "node-telegram-bot": "^0.1.9"
+  }
 }
